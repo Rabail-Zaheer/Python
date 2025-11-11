@@ -6,7 +6,7 @@ print(f"{name_of_student}")
 is_student = True
 print("is_student has a datatype of", type(is_student))
 
-is_a_athelete = False
+is_an_athelete = False
 print("is_a_athelete has a datatype of", type(is_a_athelete))
 
 student_age = 12
